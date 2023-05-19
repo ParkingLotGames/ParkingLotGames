@@ -2,7 +2,7 @@
     <h1>Welcome!</h1>
     <p>
         Although I'm not very active coding at the moment, I'm always pending for any notifications.<br/>
-        If you find an issue on any repo or want to contribute, feel free to open an issue or PR and I'll be happy to integrate it!<br>
+        If you find an issue or want to contribute to any repo, feel free to open an issue or PR and I'll be happy to integrate it!<br>
     </p>
     <a href="https://discord.com/users/389706784413319168">
         <img src="https://img.shields.io/badge/Discord-link?style=social&logo=discord" alt="Discord">
